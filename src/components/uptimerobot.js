@@ -9,7 +9,7 @@ function UptimeRobot({ apikey }) {
   const status = {
     ok: '正常',
     down: '无法访问',
-    unknow: '正常'
+    unknow: '未知'
   };
 
   const { CountDays, ShowLink } = window.Config;
