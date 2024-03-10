@@ -19,7 +19,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'ZZM946',
+      text: '',
       url: ''
     },
     
