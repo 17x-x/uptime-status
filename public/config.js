@@ -1,20 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'ZZM真TM帅',
-  ShowLink: true,
-
+  SiteName: 'ISKW',
+  
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm796543214-2e4e51f8d72e29047092f1d1',
-    'm796543052-7282cdbfe7296bcc09170b8f',
-    'm796542884-c772b2f8595b85be169c29fd',
-    'm796543060-df02a63525bf4abf4e50e43f',
-    'm796543062-838a9bd61205449b1bace56f',
-    'm796543055-9c93a35e6a6b7569fbb70620',
-    'm796543058-b843bb4f26df4c0402cce4bf',
-    'm796543046-61b912dbe46a0466432f7257',
+    'm796548289-cab20dcdb6f7f561a4258add',
+    'm796548295-bcaa55a55a316fd78ad4899d',
   ],
 
   // 日志天数
